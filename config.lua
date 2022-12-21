@@ -11,6 +11,7 @@ Config.IgnoredJobs = {
 Config.DenyDuty = {
 	["ambulance"] = true,
 	["police"] = true,
+	["firefighter"] = true,
 }
 
 Config.WhitelistJobs = {
@@ -19,6 +20,11 @@ Config.WhitelistJobs = {
 	["mechanic"] = true,
 	["judge"] = true,
 	["lawyer"] = true,
+	["whitewidow"] = true,
+	["ottos"] = true,
+	["pizzathise"] = true,
+	["rea"] = true,
+	["firefighter"] = true,
 }
 
 Config.Descriptions = {
